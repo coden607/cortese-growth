@@ -29,6 +29,27 @@ When your line is busy at Friday rush, the second caller doesn't leave a message
 - After the pilot: **15% of logged recovered orders only.** No recovery = no fee, ever.
 - **Month-to-month.** Cancel any time with 30 days' notice — and **you keep the tablet and everything we built.**
 
+## See it work before you sign anything (free demo)
+
+Fifteen minutes, your own phones:
+1. We put your line on busy and you watch the text fire back within 30 seconds — on your own phone, in your own hand.
+2. You watch the order land on the counter tablet exactly like a normal ticket.
+3. You approve the exact text your customers will see — before it ever fires to a real customer.
+
+No demo, no deal. We'd rather you watch it fail in front of you than promise you a slideshow.
+
+## Everything is changeable — you approve it all
+
+Nothing in this system is fixed. Before go-live (and any time after):
+- **The text itself** — every word, emojis, the offer inside it, the menu link. You approve the final version.
+- **When it fires** — busy signal only, no-answer, or both. Rush hours only or all day.
+- **The response** — text-back, "we'll call you right back," or a link to your online menu. Your call.
+- **Quiet hours, opt-out words, sender name** — set to whatever you want.
+- **The tablet flow** — confirm-ticket style, or straight to your existing printer.
+- **The weekly report** — daily texts instead? One-page email? Whatever you'll actually read.
+
+If anything annoys you after go-live, one message changes it. This is your system on your counter — we just run it.
+
 ## What we need from you
 
 - 20 minutes to set busy-forwarding on your existing line (we walk you through it — works with virtually any carrier)
