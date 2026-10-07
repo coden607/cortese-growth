@@ -38,6 +38,8 @@ Fifteen minutes, your own phones:
 
 No demo, no deal. We'd rather you watch it fail in front of you than promise you a slideshow.
 
+Can't wait? Watch the whole flow right now — 30 seconds on your phone: **https://coden607.github.io/links/busyline-demo/**
+
 ## Everything is changeable — you approve it all
 
 Nothing in this system is fixed. Before go-live (and any time after):

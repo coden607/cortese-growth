@@ -12,6 +12,8 @@ Either way — 20 minutes of setup on an afternoon, no new number, no app, no st
 
 And before anything goes live, I'll demo it on your own phones — you watch the text fire and the ticket land on the counter. Every word your customers see is yours to approve or change. Nothing is baked in.
 
+Want a 30-second preview right now? https://coden607.github.io/links/busyline-demo/
+
 Which afternoon works this week?
 
 — Stephen Blanford · Cortese Digital · Binghamton, NY · [PHONE]
