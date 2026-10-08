@@ -31,3 +31,10 @@ At 200/day the entire 68-lead NY/PA emailable pool burns in one morning. To USE 
 2. Complaint >0.1% → pause + review copy
 3. STOP requests → permanent suppression within 24h
 4. Never send to a bounced address again (hard-bounce ledger lives in send-log.jsonl)
+
+## UPDATE 2026-10-08 12:30 — BREVO KEY RECEIVED + MCP OPTION FOUND
+- Steve's Brevo API key extracted from his PDF into `workspace/.brevo_key` (chmod 600) + wired into `cortese-growth/.env` (gitignored). Sender supports `--via brevo` already.
+- ⚠️ BLOCKER: Brevo account has **IP allowlisting ON**. This VPS = `43.106.103.81`. Steve must add it: https://app.brevo.com/security/authorised_ips (30 sec). Until then both REST API and MCP will 401.
+- ⚠️ SECURITY: key transited chat (PDF). After first successful test send: rotate in Brevo (SMTP & API > API Keys), paste new key, I'll swap. The PDF in downloads/ still contains the key — keep or delete, Steve's call.
+- SENDER: Brevo requires a verified sender. Free path: verify coden607@gmail.com (Brevo emails a confirmation link). Better-deliverability path: dedicated domain (decision pending).
+- 🔌 BONUS — Official Brevo MCP server (early access, live): `https://mcp.brevo.com/v1/brevo/mcp` (27 modules, ~193 tools: campaigns, contacts, transactional, analytics). Auth: `Authorization: Bearer <MCP_API_KEY>` — needs the MCP-variant key from the same API Keys page (toggle "Create MCP server API key"). If Steve generates one, it plugs into OpenClaw's MCP config for native Brevo tools.
