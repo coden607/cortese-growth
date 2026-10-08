@@ -1,0 +1,14 @@
+[
+  {
+    "to": "joeyspizzadunmore@gmail.com",
+    "subject": "Dunmore's corner pizza line — never busy again",
+    "body": "LOAD_FROM_DRAFT",
+    "status": "queued"
+  },
+  {
+    "to": "info@myrosarios.com",
+    "subject": "Clarks Summit — never busy again",
+    "body": "LOAD_FROM_DRAFT",
+    "status": "queued"
+  }
+]
